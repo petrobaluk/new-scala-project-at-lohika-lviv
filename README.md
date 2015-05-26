@@ -1,2 +1,3 @@
 # new-scala-project-at-lohika-lviv
-Lohika Lviv invites you to join our fresh Scala project. For details please contact me. (see profile info)
+senior scala engineer for fresh scala project at lohika lviv wanted
+contact me for details
